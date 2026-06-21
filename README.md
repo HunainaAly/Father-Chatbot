@@ -1,4 +1,4 @@
-# Personal Data Retriever (Niaz Ali Edition)
+# Personal Data Retriever
 
 A minimalist Python implementation for structured data access.
 
